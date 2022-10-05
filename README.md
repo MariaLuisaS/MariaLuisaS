@@ -4,7 +4,7 @@ Hoje eu trabalho no setor administrativo
 Sou estudando de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo
 
 <div align="center">
-  <a href="https://github.com/MariaLuisaS>
+  <a href="https://github.com/MariaLuisaS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaLuisaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLuisaS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
