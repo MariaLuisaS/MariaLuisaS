@@ -1,7 +1,8 @@
 ### Olá! Eu sou a Maria Luisa
 
-Hoje eu trabalho no setor administrativo
-Sou estudando de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo
+Formada em Administrção, hoje eu trabalho no setor administrativo.
+
+Sou estudando de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo.
 
 <div align="center">
   <a href="https://github.com/MariaLuisaS">
@@ -22,7 +23,7 @@ Sou estudando de Análise e Desenvolvimento de Sistemas no Instituto Federal de 
   ##
  
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://www.instagram.com/_malusv/" target="_blank"></a>
  	  <a href = "mailto:marialuisasouzav@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-luisa-souza-vinagre-063724a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
