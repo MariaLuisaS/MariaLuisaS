@@ -4,6 +4,8 @@ Formada em Administrção, hoje eu trabalho no setor administrativo.
 
 Sou estudando de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo.
 
+Eu amo a área da economia circular e da tecnologia. 
+
 <div align="center">
   <a href="https://github.com/MariaLuisaS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaLuisaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
